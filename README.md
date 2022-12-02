@@ -28,6 +28,7 @@ Arduino RP2040 Connect works, but the process is slightly different.
 3. When the board has been plugged in, wait a couple of seconds then release the RESET button.
 4. The board should appear in Finder, or on the Desktop.  When it does...
 5. Remove the short between the REC pin and GND.
+6. Proceed as per the steps for other boards above.
 
 
 ## Support
