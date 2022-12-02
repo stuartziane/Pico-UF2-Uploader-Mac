@@ -1,5 +1,5 @@
 # Pico-UF2-Uploader-Mac
-Easily upload UF2 files to your Raspberry Pi Pico
+Easily upload UF2 files to your Raspberry Pi Pico and other RP2040-based boards
 
 ## Tested Boards:
 
