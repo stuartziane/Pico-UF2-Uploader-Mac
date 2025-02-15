@@ -35,6 +35,6 @@ Arduino RP2040 Connect works, but the process is slightly different.
 
 The tool is easy to use, but if you have any problems, please feel free to either add an issue to this repo, or send me an email:
 
-[stuartziane@dotsdigital.co.uk](mailto:stuartziane@dotsdigital.co.uk)
+[szianepd@gmail.com](mailto:szianepd@gmail.com)
 
 Enjoy!
